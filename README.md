@@ -62,7 +62,7 @@ Correctly Connect your RP2040:  When you connect RP2040 Raspberry Pi Pico to the
 
 Then we need a *SERIAL CONSOLE* to see the output. For me PUTTY is a good software. In lab1 we have a guide for serial console: <https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-windows>.This might help you.  
 
-Open the software PuTTy ，choose "Serial" as connection type, enter the serial port you found that your board is using (Check in Device Manager! The COM number is different from lab1!), and modify the speed to 115200.   
+Open the software PuTTy ，choose "Serial" as connection type, enter the serial port you found that your board is using **(Check in Device Manager! The COM number is different from lab1!)**, and modify the speed to 115200.   
 ![alt](https://github.com/AngLi-00/ese5190-lab2/blob/main/7-PUTTY.png)  
 Click "Open" botton, then you can see the output "hello world".  
 ![alt](https://github.com/AngLi-00/ese5190-lab2/blob/main/7-PUTTY2.png)  
